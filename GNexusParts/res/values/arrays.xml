@@ -12,6 +12,7 @@
     <string-array name="gpu_overclock_entries">
         <item>307,2 MHz (default)</item>
         <item>384,0 MHz</item>
+        <item>460,0 MHz (Popcorn)</item>
         <item>512,0 MHz</item>
     </string-array>
 
@@ -19,5 +20,6 @@
         <item>0</item>
         <item>1</item>
         <item>2</item>
+        <item>3</item>
     </string-array>
 </resources>
